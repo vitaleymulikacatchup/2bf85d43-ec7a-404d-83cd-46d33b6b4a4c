@@ -6,6 +6,7 @@ import SocialsAbout from '@/components/sections/layouts/about/SocialsAbout';
 import HowToBuy2D from '@/components/sections/layouts/howtobuy/2DHTB';
 import BigNumberTokenomics from '@/components/sections/layouts/tokenomics/BigNumberTokenomics';
 import FooterLogoEmphasis from '@/components/footer/FooterLogoEmphasis';
+import { DollarSign, ChartBar, Users } from 'lucide-react';
 
 export default function Home() {
   return (
