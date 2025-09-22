@@ -41,9 +41,9 @@ export default function Home() {
           title="Our Metrics"
           description="Transparent pricing and value delivery"
           kpiItems={[
-            { value: "100M", description: "Total Supply", longDescription: "Maximum tokens available for purchase.", icon: "DollarSign" },
-            { value: "50M", description: "Market Cap", longDescription: "Total market valuation of the token.", icon: "ChartBar" },
-            { value: "10K", description: "Active Users", longDescription: "Total users engaged in the platform.", icon: "Users" }
+            { value: "100M", description: "Total Supply", longDescription: "Maximum tokens available for purchase.", icon: DollarSign },
+            { value: "50M", description: "Market Cap", longDescription: "Total market valuation of the token.", icon: ChartBar },
+            { value: "10K", description: "Active Users", longDescription: "Total users engaged in the platform.", icon: Users }
           ]}
         />
       </div>
